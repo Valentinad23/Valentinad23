@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola, soy María Valentina! 👋 
 
-<!--
-**Valentinad23/Valentinad23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudiante de Ingeniería de Sistemas
+Transformando cafeína en código funcional y circuitos que (casi siempre) no explotan. Actualmente cursando el semestre I-2026 y enfocada en dominar el arte de la simulación y el desarrollo robusto.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Lo que estoy haciendo
+* 🏥 **Web Development:** Desarrollando una plataforma para el registro y gestión de **multi-clínicas**.
+* 🌐 **Fullstack Skills:** Creando soluciones dinámicas con **PHP** y **JavaScript**.
+* 🤖 **Hardware & IoT:** Trabajando con **Arduino Uno**, sensores LDR y sistemas de alerta sonora.
+* 🎮 **Minecraft Optimization:** Configurando servidores y optimizando plugins para eliminar el lag.
+* 🎨 **Design & UX:** Creando prototipos y diseños visuales en **Figma** y **Canva**.
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+| Lenguajes | Herramientas | Otros |
+| :--- | :--- | :--- |
+| ☕ Java | 🐘 PHP | ⚡ Arduino / Electrónica |
+| 📜 JavaScript | 🗄️ MySQL / SQL Server | 📉 Simulación y Modelos |
+| 🎨 CSS/HTML | 🛠️ Git / GitHub | 🖥️ Soporte Técnico |
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+![Stats de Valentina](https://github-readme-stats.vercel.app/api?username=Valentinad23&show_icons=true&theme=dracula&count_private=true)
+
+---
+
+### ⚡ Fun Facts
+- **Multitasker nivel:** Puedo debuguear un script de PHP mientras organizo un torneo comunitario de música.
+- **Emprendedora:** Si necesitas un video beam para una exposición, yo soy la persona indicada. 📽️
+- **Meta actual:** Que mi código de Implantacion de Sistemas pase todas las pruebas.
+
+---
+
+### 📫 ¿Cómo contactarme?
+¡Me encanta colaborar en proyectos de código abierto o hablar sobre optimización de servidores!
+
+* 📧 Correo: mariavrodriguezd2015@gmail.com
+📸 Instagram: @tu_usuario
+👾 Discord: tu_usuario#0000 (o solo tu nombre de usuario actual)
