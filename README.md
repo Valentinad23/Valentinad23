@@ -39,5 +39,6 @@ Transformando cafeína en código funcional y circuitos que (casi siempre) no ex
 ¡Me encanta colaborar en proyectos de código abierto o hablar sobre optimización de servidores!
 
 * 📧 Correo: mariavrodriguezd2015@gmail.com
-📸 Instagram: @tu_usuario
-👾 Discord: tu_usuario#0000 (o solo tu nombre de usuario actual)
+* 📸 Instagram: [@tu_usuario](https://www.instagram.com/_tin_naa/)
+* 👾 Discord: tin_na
+
