@@ -23,11 +23,6 @@ Transformando cafeína en código funcional y circuitos que (casi siempre) no ex
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-![Stats de Valentina](https://github-readme-stats.vercel.app/api?username=Valentinad23&show_icons=true&theme=dracula&count_private=true)
-
----
-
 ### ⚡ Fun Facts
 - **Multitasker nivel:** Puedo debuguear un script de PHP mientras organizo un torneo comunitario de música.
 - **Emprendedora:** Si necesitas un video beam para una exposición, yo soy la persona indicada. 📽️
